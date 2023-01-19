@@ -8,6 +8,7 @@ const SearchBar = () => {
             {/* <input 
             placeholder="Enter Movie Name eg: 'Spiderman' "/>
             <img
+             // onClick this element user should able to search 
                 src={icon}
                 alt="icon"
             /> */}
