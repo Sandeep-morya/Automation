@@ -2,7 +2,6 @@ export {default as Header} from "./Header"
 export {default as Loader} from "./Loader"
 export {default as MovieCard} from "./MovieCard"
 export { default as MoviesList } from "./MoviesList";
-// export {default as Navbar} from "./Navbar"
 export {default as Pagination} from "./Pagination"
 export {default as Error} from "./Error"
 export {default as SearchBar} from "./SearchBar"
