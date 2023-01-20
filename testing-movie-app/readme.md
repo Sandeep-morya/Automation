@@ -6,3 +6,4 @@
 ### ! Do not rename or delete the className of any components
 
 ## for refrence visit this website ['https://testing-movie-app.vercel.app']
+## and for Solution see the (solved) folder
