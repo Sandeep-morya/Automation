@@ -1,6 +1,7 @@
 export default function Pagination() {
     return (
-        <di{/* 
+        <div className="pages">
+            {/* 
             it should contain 
             * 2 button for Prev & Next
             * Buttons name should be Prev & Next
